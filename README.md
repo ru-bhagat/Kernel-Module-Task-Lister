@@ -3,7 +3,7 @@ The OS Task Lister is a kernel module designed to provide detailed information a
 
 ## Steps for Execution
 ```
-1. $ cd /home/yoursysname/OS-Task-Lister-using-Kernel-Module/dfs
+1. $ cd /home/yoursysname/OS-Task-Lister-using-Kernel-Module/dir1
 2. $ make
 3. $ sudo insmod tasks_lister_dfs.ko
 4. $ sudo dmesg
