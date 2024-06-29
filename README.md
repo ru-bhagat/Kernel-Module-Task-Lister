@@ -20,3 +20,8 @@ pid: The process ID.
 pname: The process name.
 state: The state of the process, converted to a human-readable form. The state I typically represents "idle".
 ```
+## Expected Output 
+```
+![output](https://github.com/ru-bhagat/Kernel-Module-Task-Lister/assets/167604594/6d4f0a5c-7ece-48c5-aaad-ff48f82af4dd)
+
+```
